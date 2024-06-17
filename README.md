@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # About me
-- 📚 I’m currently learning Rust 🦀, K8s and Terraform.
+- 📚 I’m currently learning K8s and Terraform.
 - ❤️ I’m a open source technology and DevOps enthusiast.
 
 ## 🏅 Certifications
